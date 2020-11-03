@@ -1,5 +1,5 @@
 {
-  "name": "jsexpert01-skeleton-ew",
+  "name": "nodejs_bandersnatch_exp",
   "version": "1.0.0",
   "description": "- Access the [index](./public/index/index.html) to view the titles list - Access the [bandersnatch](./public/bandersnatch/index.html) to view the title base of the project",
   "main": "index.js",
@@ -9,15 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ErickWendel/jsexpert01-skeleton-ew.git"
+    "url": "git+https://github.com/patriquejarry/nodejs_bandersnatch_EXP.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ErickWendel/jsexpert01-skeleton-ew/issues"
-  },
-  "homepage": "https://github.com/ErickWendel/jsexpert01-skeleton-ew#readme",
+  "homepage": "https://github.com/patriquejarry/nodejs_bandersnatch_EXP#readme",
   "devDependencies": {
     "http-server": "^0.12.3"
   }
