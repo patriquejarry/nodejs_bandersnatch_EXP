@@ -1,0 +1,24 @@
+{
+  "name": "jsexpert01-skeleton-ew",
+  "version": "1.0.0",
+  "description": "- Access the [index](./public/index/index.html) to view the titles list - Access the [bandersnatch](./public/bandersnatch/index.html) to view the title base of the project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx http-server -c-1 --cors -p 8080 public/",
+    "assets": "npx http-server -c-1 --cors -p 8081 assets/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErickWendel/jsexpert01-skeleton-ew.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErickWendel/jsexpert01-skeleton-ew/issues"
+  },
+  "homepage": "https://github.com/ErickWendel/jsexpert01-skeleton-ew#readme",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
